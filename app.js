@@ -55,4 +55,4 @@ Question 6: noun                    Question 13: food
 Question 7: adjective               Question 14: food
                                     Question 15: number
 */
-// const originalStory = "";
+// let originalStory = "";
